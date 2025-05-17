@@ -1,1 +1,1 @@
-this is the description of my repo
+## Objective: Practice feature branching and conflict resolution.
